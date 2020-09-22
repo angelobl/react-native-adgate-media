@@ -13,5 +13,5 @@
 import AdgateMedia from 'react-native-adgate-media';
 
 // TODO: What to do with the module?
-AdgateMedia;
+AdgateMedia.showOfferWall(wallId,userId);
 ```

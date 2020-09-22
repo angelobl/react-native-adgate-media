@@ -1,6 +1,6 @@
 {
   "_from": "react-native-adgate-media",
-  "_id": "react-native-adgate-media@1.0.0",
+  "_id": "react-native-adgate-media@1.0.1",
   "_inBundle": false,
   "_integrity": "sha512-AeLw9Qy5TaZFFEWqWYOI8xob+or2Seg992YjocKYtOZpTkWYQ64O3anC92Wlh1mX8751H8dBUSK7Na1lsK/5Zw==",
   "_location": "/react-native-adgate-media",
@@ -28,7 +28,7 @@
     "email": "yourname@email.com"
   },
   "bugs": {
-    "url": "https://github.com/github_account/react-native-adgate-media/issues"
+    "url": "https://github.com/angelobl/react-native-adgate-media/issues"
   },
   "bundleDependencies": false,
   "deprecated": false,
@@ -44,7 +44,7 @@
     "ios",
     "react-native-adgate-media.podspec"
   ],
-  "homepage": "https://github.com/github_account/react-native-adgate-media#readme",
+  "homepage": "https://github.com/angelobl/react-native-adgate-media#readme",
   "keywords": [
     "react-native"
   ],
@@ -58,12 +58,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-adgate-media.git",
-    "baseUrl": "https://github.com/github_account/react-native-adgate-media"
+    "url": "git+https://github.com/angelobl/react-native-adgate-media.git",
+    "baseUrl": "https://github.com/angelobl/react-native-adgate-media"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "title": "React Native Adgate Media",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
